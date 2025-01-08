@@ -94,7 +94,7 @@ Follow the prompts to create your admin credentials.
 Start the Django development server:
 ```
 
-python manage.py runserver
+python manage.py runserver  0:8000
 ```
 
 You can now view the project at http://127.0.0.1:8000/.
